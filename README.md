@@ -40,7 +40,7 @@ This is a static web application and can be hosted for free on various platforms
 1.  **Save the Code**: Save the provided code as `[yourname].html`.
 2.  **Deploy**:
     * **Netlify**: Drag and drop the `index.html` file into the Netlify deploy dashboard.
-    * **GitHub Pages**: Create a repository named `your-username.github.io` and upload the `index.html` file to it.
+    * **GitHub Pages**: Create a repository named `your-username.github.io` and upload the `[yourname].html` file to it.
 
 ## License
 
